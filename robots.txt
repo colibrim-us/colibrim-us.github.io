@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://colibrim-us.github.io/colibrim-us.github.io/sitemap.xml
+Sitemap: https://colibrim-us.github.io/sitemap.xml
